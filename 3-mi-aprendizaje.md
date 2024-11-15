@@ -1,3 +1,2 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+# MI APRENDIZAJE  
+Antes de realizar esta práctica, desconocía que era posible optimizar la creación de múltiples contenedores. Cuando necesitaba trabajar con más de un contenedor, debía configurar manualmente las redes, volúmenes, variables de entorno, y otros aspectos de forma individual. Sin embargo, tras completar esta práctica, adquirí el conocimiento para gestionar múltiples contenedores de manera eficiente utilizando un archivo **compose.yaml**. Este archivo permite definir la estructura de una aplicación con varios servicios y sus interacciones, lo que simplifica significativamente el proceso y ahorra tiempo en comparación con la configuración manual.
